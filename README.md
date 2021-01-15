@@ -1,2 +1,2 @@
-# Repo for fCC npm challenges
-## contains starting code.
+## Code for freeCodeCamp npm challenges
+
